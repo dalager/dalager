@@ -1,4 +1,4 @@
-## Hi, I'm Christian Dalager 👋
+## Hi 👋
 
 ## I'm a Consultant / Software Engineer / Architect at [Eksponent ApS](https://eksponent.com)
 
